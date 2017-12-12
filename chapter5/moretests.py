@@ -19,7 +19,7 @@ print(3 >= 2)
 print(first.lower() == second and 2 < 3)
 print(first.lower() == second or 5 < 3)
 
-# List of numbers and some condition tests on list
+# List of numbers and some condition tests on list.
 numbers = [1, 2, 3, 4, 5, 6]
 
 print(10 in numbers)
