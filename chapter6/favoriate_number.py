@@ -6,5 +6,4 @@ favorite_numbers = {'guru': 1,
                     'viswa': 4,
                     'rama': 5}
 for key, value in favorite_numbers.items():
-    print(key.title() + "'s favorite number is: " + str(value))
-    
+    print(key + " " + str(value))
