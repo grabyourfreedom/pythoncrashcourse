@@ -1,3 +1,4 @@
+# Guess whether a fruit is your favorite
 favorite_fruits = ['apple', 'pears', 'bananas', 'watermelon']
 
 fruit = 'pears'
