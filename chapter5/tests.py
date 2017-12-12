@@ -1,3 +1,4 @@
+# Some conditions and how they are evaluated to True or False
 car = "linea"
 print('Car is swift, I predict True')
 print(car == 'linea')

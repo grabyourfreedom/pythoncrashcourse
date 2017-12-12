@@ -1,3 +1,4 @@
+# A list of pizza probably i know
 pizzas = ['thin', 'cheese', 'crust']
 
 for pizza in pizzas:
