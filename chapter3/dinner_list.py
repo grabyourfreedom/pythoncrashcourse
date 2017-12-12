@@ -15,7 +15,7 @@ friends.append("nirmal")
 for friend in friends:
     print("Hi " + friend.title() + ", I invite you for dinner")
 
-# We have got a BIG table, time to add more friends
+# We have got a BIG table, time to add more friends.
 print("Guys, we got a BIGGER table. Let us party\n")
 
 # Add three folks
