@@ -1,0 +1,5 @@
+In Python you can create lists, manipulate them and iterate them. It is used to store collections of objects
+In Python you can create dictionary and store objects as key-value pairs
+In Python you can call functions using positional parameters and pass parameters naming the argument
+In Python you can use for to iterate over collections
+In Python you can write fewer lines of code and make you code look beautiful
